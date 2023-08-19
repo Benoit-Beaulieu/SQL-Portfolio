@@ -9,3 +9,4 @@ During the sprint, I had the opportunity to develop my soft and technical skills
 ## Additional Problem Sets 
 
 ## Data Schema 
+<img <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMskVFis=/?moveToViewport=-1660,511,1978,962&embedId=585401498573" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>>
