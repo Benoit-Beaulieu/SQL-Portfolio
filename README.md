@@ -11,21 +11,24 @@ Reporting directly the Head of Business Operations, our team was tasked with eva
 
 We identified the following areas of concern while evaluating Juniper's launch: 
 
-- 
-- 
-- 
+- Weekly revenue and new customer signups peaked in week-2 of the launch, and have been declining steadily since 
 
-We put forward the following solutions to resolve these issues: 
+- Delivery times are well above industry standards, with 41% of the total delivery time spent by couriers waiting to pickup orders at merchants
 
-- 
-- 
+- Order volume is highly concentrated to very few merchants (alcohol vendors in particular) exposing Juniper to revenue volatility 
+
+We put forward the following recommendations to resolve these issues: 
+
+- Improve courier wait times by incentivizing merchants to provide accurate order-prep-time estimate, while harvesting enough data to eventually ship a predictive model
+
+- Optimize Juniper's merchant mix, by continuing to grow the top-5 merchant categories, while sustainably scaling other merchant categories with merchant success programs
 
 For a detailed breakdown of our process, check out our final presentation, [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/f5520431684f74a23646988147aa50ad431cac69/Final%20Presentation%20-%20Team%20Rohan%20%20(RoR).pdf)
 
-### My contributions
-The majority of my data analysis was fixated on delivery time. Upon identifying courier wait times as being the largest bottleneck in Juniper's delivery process, I worked with a sub-unit of our team to develop three-pronged merchant incentive program. The goal outcome of our solution was to launch a predictive model, that would improve order pairing and prep-time estimates, so that courier wait-time would be significantly reduced. 
+### Analysis
+The majority of my data analysis was fixated on delivery time.I worked with a sub-unit of our team to develop a our three-pronged merchant incentive program to develop a predictive mode. 
 
-The queries I created to conduct the bulk of my analysis can be found [**HERE**]()
+The queries I created to conduct the bulk of my analysis can be found [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/71886e97d0c47ccb14041698ec6bfaedb969d829/core_curriculum_analysis.sql)
 
 ## Additional Problem Sets 
 Throughout the sprint, I worked on a number of different problem sets to guide my learning. This addititonal work can be found below: 
