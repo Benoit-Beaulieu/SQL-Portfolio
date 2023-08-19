@@ -7,7 +7,7 @@ During the sprint, I had the opportunity to develop my soft and technical skills
 ## Core Curriculum 
 During the sprint, I was placed on a team of five, simulating a Strategy & Operations team of a high-growth food delivery startup called Juniper. 
 
-Reporting directly the Head of Business Operations, our team was tasked with evaluating Juniper's launch in New York City. Specifically, determining the success of the launch, identify pain points, and produce creative solutions to address them. 
+Reporting directly the Head of Business Operations, our team was tasked with evaluating Juniper's launch in New York City. Specifically, our mandate was to.... determining the success of the launch, identify pain points, and produce creative solutions to address them. 
 
 We identified the following areas of concern while evaluating Juniper's launch: 
 
