@@ -8,4 +8,7 @@ During the sprint, I had the opportunity to develop my soft and technical skills
 
 ## Additional Problem Sets 
 
-## Data Schema 
+## Database Schema 
+To make sense of the queries featured in this portfolio, please refer to the database schema below
+
+![Project_Juniper_Database_Schema](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/assets/142422796/8ce58622-06c9-4fb4-ad5e-8ced7bad93ee)
