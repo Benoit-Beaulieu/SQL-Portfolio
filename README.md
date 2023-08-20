@@ -23,7 +23,7 @@ We put forward the following recommendations to resolve these issues:
 
 - Optimize Juniper's merchant mix, by continuing to grow the top-5 merchant categories, while sustainably scaling other merchant categories with merchant success programs
 
-For a detailed breakdown of our process, check out our final presentation, [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/f5520431684f74a23646988147aa50ad431cac69/Final%20Presentation%20-%20Team%20Rohan%20%20(RoR).pdf)
+**For a detailed breakdown of our process, check out our final presentation, [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/f5520431684f74a23646988147aa50ad431cac69/Final%20Presentation%20-%20Team%20Rohan%20%20(RoR).pdf)**
 
 ## Analysis
 The majority of my data analysis was fixated on delivery time. I worked with a sub-unit of our team to develop a our three-pronged merchant incentive program aimed towards developing a predictive model. 
