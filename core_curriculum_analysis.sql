@@ -26,7 +26,6 @@ SELECT COUNT(DISTINCT pd.pickup_place) AS num_merchants, SUM(pd.total) AS revenu
  GROUP BY zi.zone_name 
  ORDER BY revenue DESC;
 
-
 -- The query below investigates zone combinations within Manhattan, to discover whether or not there are certain pickup and dropoff combinations with enough order volume to implement delivery batching
 WITH zone_combinations AS (
 
