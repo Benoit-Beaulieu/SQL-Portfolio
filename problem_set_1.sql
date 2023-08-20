@@ -77,7 +77,7 @@ SELECT pd.place_category,
  GROUP BY pd.place_category
  ORDER BY total_rating DESC;
 
--- How many rides are greater than 50-minutes?
+-- How many deliveries are greater than 50-minutes?
 SELECT
        CASE
             WHEN timestamp_Diff(when_the_Courier_arrived_at_dropoff,when_the_delivery_started, MINUTE) > 50 THEN '> 50 mins'
