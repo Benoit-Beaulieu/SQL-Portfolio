@@ -26,6 +26,7 @@ SELECT COUNT(DISTINCT pd.pickup_place) AS num_merchants, SUM(pd.total) AS revenu
  GROUP BY zi.zone_name 
  ORDER BY revenue DESC;
 
+
 -- The query below investigates zone combinations within Manhattan, to discover whether or not there are certain pickup and dropoff combinations with enough order volume to implement delivery batching
 WITH zone_combinations AS (
 
@@ -49,7 +50,7 @@ SELECT zi1.zone_id AS pickup_zone_id,
 SELECT zc.*
   FROM zone_combinations AS zc 
  WHERE zc.volume > 25
- ORDER BY zc.avg_delivery_time 
+ ORDER BY zc.avg_delivery_time; 
 
 -- The query below identifies top performing merchants, idenfitied as merchants with no refunded orders, and who have a below average courier-wait-time (CWT)
 WITH merchant_info AS (
@@ -157,7 +158,7 @@ SELECT DISTINCT pd.pickup_place AS merchant, AVG(pd.total) AS avg_order_value,
 SELECT AVG(mi.avg_time_at_pickup_minutes) AS avg_pickup_time
   FROM merchant_info AS mi 
  WHERE mi.avg_order_value > 0.00 
-       AND mi.avg_time_at_pickup_minutes < 18.9
+       AND mi.avg_time_at_pickup_minutes < 18.9;
 
 -- Avg time at pickup INCLUDING above avg CWT merchants
 WITH merchant_info AS (
@@ -178,4 +179,4 @@ SELECT DISTINCT pd.pickup_place AS merchant, AVG(pd.total) AS avg_order_value,
 SELECT  AVG(mi.avg_time_at_pickup_minutes) AS avg_pickup_time
   FROM merchant_info AS mi 
  WHERE mi.avg_order_value > 0.00 
-       AND mi.avg_time_at_pickup_minutes > 18.9
+       AND mi.avg_time_at_pickup_minutes > 18.9;

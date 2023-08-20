@@ -25,16 +25,13 @@ We put forward the following recommendations to resolve these issues:
 
 For a detailed breakdown of our process, check out our final presentation, [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/f5520431684f74a23646988147aa50ad431cac69/Final%20Presentation%20-%20Team%20Rohan%20%20(RoR).pdf)
 
-### Analysis
+## Analysis
 The majority of my data analysis was fixated on delivery time. I worked with a sub-unit of our team to develop a our three-pronged merchant incentive program aimed towards developing a predictive model. 
 
-The queries I created to conduct the bulk of my analysis can be found [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/71886e97d0c47ccb14041698ec6bfaedb969d829/core_curriculum_analysis.sql)
+**The queries I created to conduct the bulk of my analysis can be found [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/71886e97d0c47ccb14041698ec6bfaedb969d829/core_curriculum_analysis.sql)**
 
-## Additional Problem Sets 
-Throughout the sprint, I worked on a number of different problem sets to guide my learning. This addititonal work can be found below: 
-
-- [Question set 1 to 4]()
-- [Question set 5 to 7]()
+### Supplemental Learning  
+Throughout the sprint, I worked on a number of different problem sets to guide my learning. **This addititonal work can be found [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/cc461e18e5b8684d7fd9b218780786040d76e521/problem_set_1.sql)**
 
 I also completed the [**SQL Fundamentals Certificate**]() offered by [Dataquest](https://www.dataquest.io/path/sql-skills/) to supplement my learning. 
 
