@@ -33,8 +33,6 @@ The majority of my data analysis was fixated on delivery time. I worked with a s
 ### Supplemental Learning  
 Throughout the sprint, I worked on a number of different problem sets to guide my learning. **This addititonal work can be found [**HERE**](https://github.com/Benoit-Beaulieu/StratOps2023_TheCommons/blob/cc461e18e5b8684d7fd9b218780786040d76e521/problem_set_1.sql)**
 
-I also completed the [**SQL Fundamentals Certificate**]() offered by [Dataquest](https://www.dataquest.io/path/sql-skills/) to supplement my learning. 
-
 ## Database Schema 
 To make sense of the queries featured in this portfolio, please refer to the database schema below
 
